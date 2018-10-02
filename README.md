@@ -14,6 +14,7 @@ $ python main.py
 
 ### Testing the agent
 The training generates a csv with Q-table info of the form `alpha_{alpha_value}_gamma_{gamma_value}_score_{score}__{timestamp}.csv` 
+One is added in the examples folder of this repository.
 ```
 $ python test.py <path-to-qtable.csv>
 ```
