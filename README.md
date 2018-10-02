@@ -1,6 +1,8 @@
 # open-ai-gym-taxi-v2
 
 [The official description](https://gym.openai.com/envs/Taxi-v2/)
+[A summary which briefly touches upon Q-learning](https://medium.com/@amresh.venugopal/attempting-open-ais-taxi-v2-using-the-sarsa-max-algorithm-70a4de8c8c9c)
+
 
 ## Installation
 
