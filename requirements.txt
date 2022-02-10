@@ -28,7 +28,7 @@ cryptography==3.3.2
 cryptography-vectors==2.3
 cycler==0.10.0
 Cython==0.28.4
-dask==0.16.1
+dask==2021.10.0
 decorator==4.0.11
 dill==0.2.7.1
 docutils==0.14
