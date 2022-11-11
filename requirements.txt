@@ -128,7 +128,7 @@ PyOpenGL==3.1.0
 pyOpenSSL==17.5.0
 pyparsing==2.2.0
 PySocks==1.6.8
-pyspark==2.2.2
+pyspark==3.2.2
 python-crfsuite==0.9.2
 python-dateutil==2.6.1
 python-engineio==3.8.2.post1
