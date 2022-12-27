@@ -150,7 +150,7 @@ scipy==0.19.1
 seaborn==0.8.1
 SeekWell==0.1
 Send2Trash==1.5.0
-setuptools==38.4.0
+setuptools==65.5.1
 Shapely==1.6.4.post1
 simplegeneric==0.8.1
 SimpleWebSocketServer==0.1.0
